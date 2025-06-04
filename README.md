@@ -82,8 +82,8 @@ A task management app to add, edit, delete, and filter tasks.
 ---
 
 ## Contact
-📧 **Email:** [Your Email Here]
-🔗 **LinkedIn:** [Your LinkedIn Profile Here]
+📧 **Email:** Wendmagegn9412@gmail.com
+🔗 **LinkedIn:** [\[Wendmagegn\]](https://www.linkedin.com/in/wendmagegn-tajura/)
 
 ---
 
